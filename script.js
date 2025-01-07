@@ -1,12 +1,13 @@
 // Section content
 const sections = {
     about: `
-        <section id="about">
-            <h2>About Me</h2>
-            <p>Hello! I'm Ori Ariel, a formal verification engineer specializing in hardware. With extensive experience in System Verilog and formal verification tools, I thrive on solving complex problems and innovating in the tech space.</p>
-            <p>Contact me at: <a href="mailto:ori.ariel@mail.huji.ac.il">ori.ariel@mail.huji.ac.il</a></p>
-        </section>
-    `,
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I'm Ori Ariel, a passionate formal verification engineer specializing in hardware. I thrive on solving complex challenges and enjoy the satisfaction of seeing everything click into place after extensive debugging and coding sessions.</p>
+        <p>Beyond work, I'm deeply committed to lifelong learning and personal growth. Whether it's exploring new technologies, mentoring others, or developing my own skills, I strive to improve every day.</p>
+        <p>When I'm not immersed in technology, I cherish moments with my family, enjoy outdoor activities, and find joy in playing games that connect me with loved ones. I believe in balancing dedication to my craft with meaningful personal experiences, and I bring this energy to every project I take on.</p>
+    </section>
+`,
     skills: `
         <section id="technical-skills">
             <h2>Technical Skills</h2>
