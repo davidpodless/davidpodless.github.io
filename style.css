@@ -12,12 +12,17 @@ header {
     background-color: #0073e6;
     color: #fff;
     text-align: center;
-    padding: 1.5em 0;
+    padding: 1em;
 }
 
 header h1 {
+    font-size: 2em;
     margin: 0;
-    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1em;
+    margin: 0.5em 0;
 }
 
 nav {
@@ -30,6 +35,7 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap; /* Adjust for smaller screens */
 }
 
 nav li {
@@ -41,6 +47,7 @@ nav a {
     padding: 1em;
     color: #fff;
     text-decoration: none;
+    text-align: center;
 }
 
 nav a:hover {
@@ -53,9 +60,47 @@ main {
     margin: auto;
 }
 
+/* Footer */
 footer {
     text-align: center;
     padding: 1em 0;
     background-color: #333;
     color: #fff;
+}
+
+/* Responsive Styles */
+@media screen and (max-width: 768px) {
+    header h1 {
+        font-size: 1.5em;
+    }
+
+    header p {
+        font-size: 0.9em;
+    }
+
+    nav ul {
+        flex-direction: column; /* Stack links vertically */
+    }
+
+    nav a {
+        padding: 0.8em;
+    }
+
+    main {
+        padding: 1em;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    header h1 {
+        font-size: 1.2em;
+    }
+
+    header p {
+        font-size: 0.8em;
+    }
+
+    nav a {
+        padding: 0.6em;
+    }
 }
