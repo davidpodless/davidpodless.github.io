@@ -66,15 +66,6 @@ const sections = {
             </ul>
         </section>
     `,
-    military: `
-        <section id="military-service">
-            <h2>Military Service</h2>
-            <p><strong>8200 Unit</strong> (2011–2014)</p>
-            <p>Role: Webint Analyst</p>
-            <p>Rank: Chief Sergeant</p>
-            <p>Honors: Model student, excelling soldier.</p>
-        </section>
-    `,
 };
 
 // Handle section navigation
