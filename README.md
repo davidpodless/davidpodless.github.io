@@ -39,7 +39,7 @@ Welcome to my personal portfolio website! This project showcases my professional
 
 ## 🔗 Links
 - **Website**: [https://oriariel.com](https://oriariel.com)
-- **GitHub**: [https://github.com/username](https://github.com/username)
+- **GitHub**: [https://github.com/davidpodless](https://github.com/davidpodless)
 - **LinkedIn**: [https://linkedin.com/in/ori-ariel](https://linkedin.com/in/ori-ariel)
 
 ---
