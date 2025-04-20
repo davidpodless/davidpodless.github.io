@@ -35,10 +35,11 @@ const sections = {
         <h2>Achievements</h2>
         <ul>
             <li>
-                <strong>One approved patent:</strong> 
+                <strong>Two approved patent:</strong> 
                 <a href="https://patents.justia.com/patent/11768990" target="_blank">Interconnect Flow Graph for Integrated Circuit Design (Patent #11768990)</a>
+                <a href="https://patents.justia.com/patent/12271669" target="_blank">Executing instruction sequences generated from software interactions as part of formal verification of a design under test (Patent #12271669)</a>
             </li>
-            <li>Three patents pending approval.</li>
+            <li>Two patents pending approval.</li>
         </ul>
     </section>
 `,
